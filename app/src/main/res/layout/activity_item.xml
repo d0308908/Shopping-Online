@@ -3,4 +3,30 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="商品總類"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_purple"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btn_shoes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="鞋子" />
+
+    <Button
+        android:id="@+id/btn_bag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="包包" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="返回" />
 </LinearLayout>
