@@ -16,13 +16,8 @@
         android:id="@+id/btn_shoes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="鞋子" />
-
-    <Button
-        android:id="@+id/btn_bag"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="包包" />
+        android:text="鞋類"
+        android:textSize="24sp" />
 
     <Button
         android:id="@+id/button11"
